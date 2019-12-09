@@ -54,7 +54,7 @@ About Me</span></a>
 <div class="col-lg-12">
     <hr class="recent-hr">
             <div class="recent">
-                <a class="recent-item" href="https://recoveryman.tistory.com/321?category=635733">My plan</a>
+                <a class="recent-item" href="https://dogyun-ohyeah.github.io/plan/">My plan</a>
             </div>
             <hr class="recent-hr">
         
