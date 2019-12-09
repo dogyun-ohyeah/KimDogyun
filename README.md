@@ -153,7 +153,6 @@ About Me</span></a>
             </div>
         </div>
     </div>
-</section>
 
 
 <!-- sharing options -->
