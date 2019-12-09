@@ -62,7 +62,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-                <a class="navbar-brand nav-link" href="file:///C:/Users/%EA%B9%80%EB%8F%84%EA%B7%A0/Desktop/Sample%20post%20to%20check%20the%20functionality%20%E2%99%A5%20Lav%20Vishwakarma.html">Kangwon National University</a><a class="image-anchor" href="https://www.kangwon.ac.kr/www/contents.do?key=271&amp;"></>
+                <a class="navbar-brand nav-link" href="file:///C:/Users/%EA%B9%80%EB%8F%84%EA%B7%A0/Desktop/Sample%20post%20to%20check%20the%20functionality%20%E2%99%A5%20Lav%20Vishwakarma.html">Kangwon National University</a><a class="image-anchor" href="https://www.kangwon.ac.kr/www/contents.do?key=271&amp;"></a>
             </div>
 
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
