@@ -43,25 +43,6 @@
                 </a> 
                 <h1 class="blog-heading">Digital Logical Design assignment</h1>
                 <p class="time"> <i class="fa fa-clock-o" aria-hidden="true"></i>27 November 2019</p>
-
-                
-
-
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-<p></p>
-
-
-            </div>
-            <div class="col-lg-4">
-                <!-- Recent Post -->
 <div class="col-lg-12">
     <h4 class="recent-title"></h4>
     <hr class="recent-hr">
