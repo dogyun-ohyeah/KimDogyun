@@ -121,16 +121,10 @@
       <div class="recent">
           <a class="recent-item" href="file:///C:/Users/%EA%B9%80%EB%8F%84%EA%B7%A0/Desktop/About%20Me.html"><span>
 About Me</span></a>
-      
-
 <!-- Categpry -->
 <div class="col-lg-12">
     <h4 class="recent-title"></h4>
     <hr class="recent-hr">
-
-    
-      
-        
             <div class="recent">
                 <a class="recent-item" href="file:///C:/Users/%EA%B9%80%EB%8F%84%EA%B7%A0/Desktop/%EA%BF%88.html">My plan</a>
             </div>
