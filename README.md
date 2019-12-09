@@ -87,7 +87,7 @@
                     <a class="image-anchor" href="https://www.kangwon.ac.kr/www/contents.do?key=271&amp;">
 
                     
-                    <img width="100" height="400" class="img-main" src="https://user-images.githubusercontent.com/57663482/70436315-53cfcf80-1acc-11ea-8f60-1daf5dec003f.jpg">
+                    <img width="400" height="100" class="img-main" src="https://user-images.githubusercontent.com/57663482/70436315-53cfcf80-1acc-11ea-8f60-1daf5dec003f.jpg">
                     
 
                     
